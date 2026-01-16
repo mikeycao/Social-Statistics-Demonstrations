@@ -8,4 +8,5 @@ To view the exercises, download the corresponding `.html` file and open it in yo
 
 The data used for my analyses come from the [2022 General Social Survey (GSS)](https://gss.norc.org/).
 
-| Author | Michael Cao |
+| Author    | Michael Cao |
+| -------- | ------- |
