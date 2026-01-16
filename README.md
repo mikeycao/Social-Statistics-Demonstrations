@@ -13,6 +13,3 @@ To view the exercises, download the corresponding `.html` file and open it in yo
 
 The data used for my analyses come from the [2022 General Social Survey (GSS)](https://gss.norc.org/).
 
-| Contributors | 
-| -------- | 
-| Michael Cao [![Email](https://img.shields.io/badge/Email-blue)](mailto:mlc105@duke.com) |
